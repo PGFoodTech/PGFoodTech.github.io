@@ -3,7 +3,7 @@
   "short_name": "PG FoodTech",
   "description": "PG FoodTech - aplikacja produkcyjna",
   "start_url": "./index.html",
-  "display": "standalone",
+  "display": "fullscreen",
   "background_color": "#0d0d1a",
   "theme_color": "#0d0d1a",
   "orientation": "portrait",
