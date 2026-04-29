@@ -1,0 +1,22 @@
+{
+  "name": "PG FoodTech",
+  "short_name": "PG FoodTech",
+  "description": "PG FoodTech - aplikacja produkcyjna",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0d0d1a",
+  "theme_color": "#0d0d1a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/06d6a0/0d0d1a?text=PG",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/06d6a0/0d0d1a?text=PG",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
